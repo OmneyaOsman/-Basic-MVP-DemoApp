@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PostsDemoApp</string>
+    <string name="empty_view">Empty View</string>
+</resources>
